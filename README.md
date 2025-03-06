@@ -1,3 +1,5 @@
+This is the first version of our educational music layering game - MravalJam. to play the game run MravalJam.exe
+
 ABSTRACT
 
 The MravalJam project explores the potential of gamified music education to address the
