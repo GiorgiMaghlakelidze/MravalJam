@@ -15,4 +15,4 @@ music curricula and the interests of modern students, leveraging technology to c
 more dynamic and inclusive educational environment.
 
 Link to the full documentation
-[📄 Full Report](Docs/ProjectReport.pdf)
+[📄 Full Report](Docs/MravalJam_Report.pdf)
